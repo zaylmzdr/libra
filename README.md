@@ -1,5 +1,5 @@
 
-# Proje Başlığı
+# Library Management System 📚 
 
 Bu projede python'da dosya yönetimini kullanarak kütüphane kitap kontrol sistemi yazdım.Projemde arayüz ve veritabanı olmadan işlemler sadece text dosyaları aracılığıyla gerçekleşiyor.
 
